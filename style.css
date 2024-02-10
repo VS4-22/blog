@@ -9,17 +9,17 @@ html,body{
 
 }
 .im1{
-   background-image: url(ima/3.jpg);
+   background-image: url(3.jpg);
    min-width: 100%;
    min-height: 100%;
 }
 .im2{
-   background-image: url(ima/4.jpg);
+   background-image: url(4.jpg);
    min-width: 100%;
    min-height: 100%;
 }
 .im3{
-   background-image: url(ima/23.jpg);
+   background-image: url(23.jpg);
    min-width: 100%;
    min-height: 100%;
 }
